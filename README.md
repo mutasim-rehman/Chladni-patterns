@@ -47,7 +47,7 @@ You need to have Python 3 installed. The project relies on several external libr
 ### **Installation**
 
 1. **Clone the repository (or download the main.py script)**:  
-   git clone https://your-repository-url/here.git  
+   git clone <https://github.com/mutasim-rehman/Chladni-patterns>
    cd chladni-resonance-visualizer
 
 2. **Install the required libraries**:  

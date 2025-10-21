@@ -29,6 +29,8 @@ The simulation follows a clear pipeline from audio input to visual output:
    * An **attractive force** pulling them towards areas of zero vibration (nodes).  
 5. **Particle Update**: Each particle's velocity is updated based on the forces at its location. Its position is then updated based on its new velocity. Friction, drag, and a small random motion (Brownian) are also applied.  
 6. **Rendering**: All particles are drawn to the screen using Pygame, and the UI is overlaid. This loop repeats up to 60 times per second to create a smooth, real-time animation.
+7. ![UML Diagram](uml_diagram_chladni.png)
+
 
 ## **Getting Started**
 
